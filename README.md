@@ -1,4 +1,4 @@
-# Corredor Infinito - Juego con Pygame
+# Chrome Cat - Juego con Pygame
 
 Este proyecto es un juego de corredor infinito desarrollado en Python utilizando la biblioteca Pygame. El juego presenta un gato como personaje principal que debe correr por un camino lleno de obstáculos, como cactus y pájaros, mientras intenta evitar colisiones.
 
@@ -26,5 +26,5 @@ El repositorio contiene los siguientes archivos y directorios principales:
 
 ## Requisitos del Sistema
 
-Para ejecutar el juego, se requiere tener instalado Python 3 y la biblioteca Pygame. Puedes instalar Pygame utilizando pip:
+Para ejecutar el juego, se requiere tener instalado Python 3 y la biblioteca Pygame. Puedes instalar Pygame utilizando "pip install pygame"
 
