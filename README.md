@@ -6,6 +6,18 @@ kodland.org
 
 ![Logo del proyecto](https://github.com/juan10024/Python_Tutor/blob/31637480b74d232d7acb7e7aed8ccb663c77ff3e/Screenshot_2.png)
 
+## Instalación y Ejecución
+
+1. Clona el repositorio o descarga el código fuente.
+2. Asegúrate de tener Python y Pygame instalados en tu sistema.
+3. Abre una terminal en la ubicación del archivo `main.py`.
+4. Ejecuta el juego con el comando `python main.py`.
+
+## Controles
+
+- **↑**: Salto
+- **↓**: Agacharse
+
 ## Funcionalidades
 
 - **Control del Gato**: El jugador puede controlar al gato utilizando las teclas de flecha hacia arriba y hacia abajo para saltar y agacharse respectivamente.
@@ -18,9 +30,9 @@ kodland.org
   
 - **Pantalla de Game Over**: Si el jugador colisiona con un obstáculo, se muestra una pantalla de Game Over con la puntuación final y la opción de reiniciar el juego.
 
-__Generalidades del código__
+## Generalidades del código
 
-Aquí hay una seccuencia básica del flujo del programa:
+Aquí hay una secuencia básica del flujo del programa:
 
 Importa las clases y funciones necesarias:
 ```python
