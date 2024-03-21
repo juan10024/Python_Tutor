@@ -4,7 +4,7 @@ Este proyecto es un juego de corredor infinito desarrollado en Python utilizando
 
 kodland.org
 
-![Logo del proyecto]([https://drive.google.com/file/d/1EdhZmPDctdrvrvY9DTQZmYmpXy7cVtfu/view?usp=sharing](https://github.com/juan10024/Python_Tutor/blob/main/Screenshot_2.png))
+![Logo del proyecto](https://github.com/juan10024/Python_Tutor/blob/31637480b74d232d7acb7e7aed8ccb663c77ff3e/Screenshot_2.png)
 
 ## Funcionalidades
 
@@ -17,6 +17,40 @@ kodland.org
 - **Menú de Selección**: Al iniciar el juego, se presenta un menú donde el jugador puede seleccionar entre diferentes mapas y niveles de dificultad.
   
 - **Pantalla de Game Over**: Si el jugador colisiona con un obstáculo, se muestra una pantalla de Game Over con la puntuación final y la opción de reiniciar el juego.
+
+__Generalidades del código__
+
+Aquí hay una seccuencia básica del flujo del programa:
+
+Importa las clases y funciones necesarias:
+```python
+import pygame
+import os
+import random
+```
+
+Inicializa Pygame y configura la pantalla:
+```python
+pygame.init()
+SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 1100
+SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+```
+
+Crea instancias del jugador y otros objetos del juego:
+```python
+player = Cat()
+cloud = Cloud()
+```
+
+Ejecuta el bucle principal del juego:
+```python
+while True:
+for event in pygame.event.get():
+if event.type == pygame.QUIT:
+pygame.quit()
+exit()
+```
 
 ## Contenido del Repositorio
 
