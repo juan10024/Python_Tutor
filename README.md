@@ -1,8 +1,10 @@
 # Chrome Cat - Juego con Pygame
 
-Este proyecto es un juego de corredor infinito desarrollado en Python utilizando la biblioteca Pygame. El juego presenta un gato como personaje principal que debe correr por un camino lleno de obstáculos, como cactus y pájaros, mientras intenta evitar colisiones. Muchas gracias a el area de Recursos Humanos de __Plataforma en línea para habilidades digitales - Kodland__ por proponer un reto tan interesante.
+Este proyecto es un juego de corredor infinito desarrollado en Python utilizando la biblioteca Pygame. El juego presenta un gato como personaje principal que debe correr por un camino lleno de obstáculos, como cactus y pájaros, mientras intenta evitar colisiones. Muchas gracias al área de Recursos Humanos de __Plataforma en línea para habilidades digitales - Kodland__ por proponer un reto tan interesante.
 
 kodland.org
+
+![Logo del proyecto](https://drive.google.com/file/d/1EdhZmPDctdrvrvY9DTQZmYmpXy7cVtfu/view?usp=sharing)
 
 ## Funcionalidades
 
