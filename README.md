@@ -4,7 +4,7 @@ Este proyecto es un juego de corredor infinito desarrollado en Python utilizando
 
 kodland.org
 
-![Logo del proyecto](https://drive.google.com/file/d/1EdhZmPDctdrvrvY9DTQZmYmpXy7cVtfu/view?usp=sharing)
+![Logo del proyecto]([https://drive.google.com/file/d/1EdhZmPDctdrvrvY9DTQZmYmpXy7cVtfu/view?usp=sharing](https://github.com/juan10024/Python_Tutor/blob/main/Screenshot_2.png))
 
 ## Funcionalidades
 
